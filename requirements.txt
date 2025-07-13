@@ -1,0 +1,7 @@
+pandas
+faiss-cpu
+sentence-transformers
+numpy
+requests
+beautifulsoup4
+
